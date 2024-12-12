@@ -22,6 +22,15 @@ The page contains a list of topics starting from basics of software engineering 
 ### Testing
 [Unit Testing](https://www.geeksforgeeks.org/unit-testing-software-testing/)
 
+## Design
+[REST API Design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+[Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+[Representing Designs - Diagrams](https://www.gleek.io/blog/diagram-for-developers)
+
+## Cloud Certification Paths
+[AWS](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf?pp=cert&c=exam&z=6)
+[Azure](https://azure.microsoft.com/en-in/resources/training-and-certifications#learning-paths)
+
 
 
 
