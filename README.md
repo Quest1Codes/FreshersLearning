@@ -30,6 +30,7 @@ The page contains a list of topics starting from basics of software engineering 
 ## Cloud Certification Paths
 [AWS](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf?pp=cert&c=exam&z=6)
 [Azure](https://azure.microsoft.com/en-in/resources/training-and-certifications#learning-paths)
+[Redis](https://university.redis.io/academy)
 
 
 
