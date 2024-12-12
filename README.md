@@ -18,7 +18,19 @@ The page contains a list of topics starting from basics of software engineering 
 * [Basic Linux Commands](https://www.hostinger.com/tutorials/linux-commands)
 * [Git](https://git-scm.com/book/en/v2), [Git Crash Course](https://gist.github.com/brandon1024/14b5f9fcfd982658d01811ee3045ff1e)
 * [CICD](https://www.redhat.com/en/topics/devops/what-is-ci-cd), [Github actions](https://docs.github.com/en/actions)
-  - [Containerization and Docker](https://www.docker.com/resources/what-container/)
+
+### Docker
+* [Containerization and Docker](https://www.docker.com/resources/what-container/)
+* [Docker in 60 seconds](https://www.youtube.com/watch?v=yUpJFd-bgsc)
+* [Virtual Machine vs Docker](https://www.youtube.com/watch?v=a1M_thDTqmU)
+* [What is containerization?](https://www.youtube.com/watch?v=0qotVMX-J5s)
+
+### Networking
+* [Basic networking](https://www.geeksforgeeks.org/basics-computer-networking/)
+
+### Microservices
+* [Introduction to Microservices](https://www.youtube.com/watch?v=CdBtNQZH8a4)
+
 ### Testing
 * [Unit Testing](https://www.geeksforgeeks.org/unit-testing-software-testing/)
 
